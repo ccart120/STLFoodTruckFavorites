@@ -1,8 +1,8 @@
 ﻿LiftOff Project Outline
 Overview
 The idea for my project is based around food trucks. Many people love them and spend time tracking them to see where they will be next, 
-or search the internet looking for new ones to visit. I personally stumbled upon an event called Food Truck Friday in Carondelet Park in
-which dozens of food trucks of different types are lined up on a couple of roads for customers to enjoy. I loved this event because it 
+or search the internet looking for new ones to visit. I personally stumbled upon an event called Food Truck Friday in Tower Grove Park in
+which over a dozen food trucks of different types are lined up on a couple of roads for customers to enjoy. I loved this event because it 
 was a way to sample food from multiple trucks, figure out what I liked and which food trucks I might want to look for in the future. I 
 actually began to search for a few online, but gave up compiling a list with locations and descriptions of trucks because it was too 
 inconvenient. There are also plenty of people who eat lunch purchased from a food truck, or who may able to sample food from a truck in 
