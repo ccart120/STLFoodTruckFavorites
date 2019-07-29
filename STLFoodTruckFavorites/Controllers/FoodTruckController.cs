@@ -20,12 +20,13 @@ namespace STLFoodTruckFavorites.Controllers
         {
             //what would admin index have?
             //list of food trucks
+
             
             return View();
         }
 
         //create a separate controller, object entirely for FoodTruckListItems
-        //in this controller, only the admin uses/is associated with
+        //in the FoodTruck controller, only the admin uses/is associated with
         //Index method?
         //I want the user to view a list of locations associated with their id
         [HttpGet]
