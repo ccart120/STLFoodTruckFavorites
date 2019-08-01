@@ -15,6 +15,11 @@ namespace STLFoodTruckFavorites.Data
             this.context = context;
         }
 
-        
+        public IRepository<FoodTruck> GetFoodTruckRepository()
+        {
+            return new BaseRepository<FoodTruck>(context);
+        }
+
+
     }
 }
